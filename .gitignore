@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Model outputs
+saved_model/
+*.h5
+*.keras
+*.tflite
+
+# Data
+data/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
